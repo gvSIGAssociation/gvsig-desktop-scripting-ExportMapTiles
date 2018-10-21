@@ -1,5 +1,5 @@
 #
-#Sun Oct 21 23:36:03 CEST 2018
+#Sun Oct 21 23:38:59 CEST 2018
 owner=gvSIG Association
 code=ExportMapTiles
 java-version=j1_7
@@ -17,5 +17,6 @@ categories=
 description=Export view to mbtiles format
 owner-url=
 buildNumber=0
+download-url=https\://github.com/gvSIGAssociation/gvsig-desktop-scripting-ExportMapTiles/releases/download/1.0.0-0/gvSIG-desktop-3.0.0-ExportMapTiles-1.0.0-0-testing-all-all-j1_7.gvspkg
 gvSIG-version=3.0.0
 name=ExportMapTiles
