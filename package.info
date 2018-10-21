@@ -1,0 +1,21 @@
+#
+#Sun Oct 21 23:36:03 CEST 2018
+owner=gvSIG Association
+code=ExportMapTiles
+java-version=j1_7
+official=true
+type=Script
+version=1.0.0-0
+state=testing
+operating-system=all
+dependencies=
+sources-url=
+web-url=
+architecture=all
+model-version=1.0.1
+categories=
+description=Export view to mbtiles format
+owner-url=
+buildNumber=0
+gvSIG-version=3.0.0
+name=ExportMapTiles
