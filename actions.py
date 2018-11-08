@@ -62,7 +62,7 @@ def selfRegister():
   actionManager = PluginsLocator.getActionInfoManager()
   iconTheme = ToolsSwingLocator.getIconThemeManager().getCurrent()
 
-  exportmaptiles_icon = File(join(dirname(__file__),"images","exportmaptiles.png")).toURI().toURL()
+  exportmaptiles_icon = File(gvsig.getResource(__file__,"images","exportmaptiles.png")).toURI().toURL()
   iconTheme.registerDefault("scripting.exportmaptiles", "action", "tools-exportmaptiles", None, exportmaptiles_icon)
 
   exportmaptiles_extension = ExportMapTilesPanelExtension()
